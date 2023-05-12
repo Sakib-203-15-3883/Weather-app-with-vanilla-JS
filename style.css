@@ -54,8 +54,13 @@ body {
   margin: 0 10px;
 }
 
+.search button:active img {
+  opacity: 0.5;
+}
+
 .search button img {
   width: 40px;
+  transition: 0.1s ease-in-out;
 }
 
 .weather-icon {
@@ -81,8 +86,6 @@ body {
   justify-content: space-between;
   padding: 0 20px;
   margin-top: 10%;
-  margin-bottom: 20%;
-  padding-top: 10%;
 }
 
 .col1 {
@@ -115,4 +118,17 @@ body {
   font-size: 20px;
   font-weight: bold;
   margin-top: 5px;
+}
+
+.weather {
+  display: none;
+}
+
+.error {
+  text-align: left;
+  margin-left: 10px;
+  font-size: 20px;
+  margin-top: 10px;
+  display: none;
+  color: rgb(0, 255, 157);
 }
