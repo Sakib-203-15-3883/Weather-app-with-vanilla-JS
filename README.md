@@ -1,4 +1,5 @@
-# Weather-app
+#Weather-app
+
  A list of javaScript topics that are used in This weather app
 
 #API Integration:
