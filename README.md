@@ -1,6 +1,6 @@
 #Weather-app
 
-Live Link : https://weather-app-sakib3883.vercel.app/
+Live Link : [https://weather-app-sakib3883.vercel.app/](https://sakib-203-15-3883.github.io/Weather-app-with-vanilla-JS/)
 
 My Explanation on YouTube : https://youtu.be/rSlZNvF8JPI
 
